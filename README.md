@@ -1,6 +1,6 @@
 # fcm_practice
 
-A new Flutter application.
+Fcm push + localNotification
 
 ## Getting Started
 
