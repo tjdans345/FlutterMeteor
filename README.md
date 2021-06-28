@@ -1,7 +1,7 @@
 # fcm_practice
 
 Fcm push + localNotification
-
+  <Get x Pttern 적용x>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
